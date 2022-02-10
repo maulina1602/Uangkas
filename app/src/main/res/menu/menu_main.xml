@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="maulina1602.github.uangkas.MainActivity">
+    <item
+        android:id="@+id/action_filter"
+        android:orderInCategory="100"
+        android:title="Cari Data"
+        app:showAsAction="never" />
+</menu>
